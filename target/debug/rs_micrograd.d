@@ -1,1 +1,1 @@
-C:\Users\Arjun\ Bhamra\OneDrive\Desktop\CompCoding\rs_micrograd\target\debug\rs_micrograd.exe: C:\Users\Arjun\ Bhamra\OneDrive\Desktop\CompCoding\rs_micrograd\src\main.rs
+C:\Users\Arjun\ Bhamra\OneDrive\Desktop\CompCoding\rs_micrograd\target\debug\rs_micrograd.exe: C:\Users\Arjun\ Bhamra\OneDrive\Desktop\CompCoding\rs_micrograd\src\lib.rs C:\Users\Arjun\ Bhamra\OneDrive\Desktop\CompCoding\rs_micrograd\src\main.rs C:\Users\Arjun\ Bhamra\OneDrive\Desktop\CompCoding\rs_micrograd\src\value.rs
